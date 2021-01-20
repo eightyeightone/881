@@ -1,5 +1,7 @@
-# Factory-33-0
+## Factory-33-0
 
 #### Architecture for Introducing &amp; Producing Quantitative Trading Systems in Total.
+> By Harry Akeroyd.
+
 
 > **
