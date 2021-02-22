@@ -1,5 +1,5 @@
 
-#### Quantitative Trading Systems in Total.
+#### Quantitative Trading System in Total.
 
 
 
