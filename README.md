@@ -1,8 +1,7 @@
-### 881
 
-#### Architecture for Introducing &amp; Producing Quantitative Trading Systems in Total.
-
+#### Quantitative Trading Systems in Total.
 
 
-###### By Harry Akeroyd. eightyeightone@outlook.com
+
+###### By Harry Akeroyd.
 
