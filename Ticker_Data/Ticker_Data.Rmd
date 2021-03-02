@@ -1,0 +1,7 @@
+---
+title: "Collection of Methods for Gathering Stock Data"
+author: "Harry Akeroyd"
+date: "02/03/2021"
+output: html_document
+---
+
