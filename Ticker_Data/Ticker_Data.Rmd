@@ -2,6 +2,67 @@
 title: "Collection of Methods for Gathering Stock Data"
 author: "Harry Akeroyd"
 date: "02/03/2021"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
+
+### For Tesla: TSLA
+
+**Libraries**
+
+```{r echo=TRUE, results='hide', error=FALSE, warning=FALSE, message=FALSE}
+library(quantmod)
+```
+
+
+
+**Data**
+
+Assigning the trading period: year of 2020.
+
+```{r}
+time.start <- "2020-01-01"
+time.end <- "2020-12-31"
+
+stock.ticker <- "TSLA"
+stock.prices <- getSymbols.yahoo(stock.ticker, from=time.start, auto.assign=F)
+print(summary(stock.prices))
+
+#stock.open <- stock.prices[,1] # Un-comment as required.
+#stock.high <- stock.prices[,2]
+#stock.low <- stock.prices[,3]
+#stock.close <- stock.prices[,4]
+#stock.volume <- stock.prices[,5]
+stock.adj_close <- stock.prices[,6]
+
+```
+
+The output (stock.prices) is a xts (eXtensible Time Series) file, which can be though of as a matrix with the power to manipulate the data as a function of time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
