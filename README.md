@@ -1,4 +1,4 @@
 
-Collection of workings for quantitative trading.
+Collection of works.
 
 ##### By Harry Akeroyd
