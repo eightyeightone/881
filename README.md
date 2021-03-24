@@ -1,4 +1,4 @@
 
-##### Collection of works.
+#### Collection of works.
 
-##### By Harry Akeroyd
+##### By Harry Akeroyd.
